@@ -1,7 +1,5 @@
 import { Component, Prop, Host, h } from '@stencil/core';
 
-// sc stands for the repo shorthand, sample-components
-// TODO: Clearify in the readme
 @Component({
   tag: 'sc-product',
   styleUrl: 'product.scss',
