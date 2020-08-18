@@ -1,0 +1,1 @@
+System.register(["./p-57b3341e.system.js","./p-af8e1458.system.js"],(function(){"use strict";var t,e;return{setters:[function(e){t=e.b},function(t){e=t.p}],execute:function(){e().then((function(e){return t([["p-1a40f8a0.system",[[1,"sc-product",{imagesrc:[1],imagealt:[1],productname:[1]}]]]],e)}))}}}));

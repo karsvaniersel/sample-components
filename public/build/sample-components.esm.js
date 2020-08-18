@@ -1,0 +1,1 @@
+import{b as a}from"./p-65fa8ee7.js";import{p}from"./p-769a3c61.js";p().then(p=>a([["p-dcb2f1ca",[[1,"sc-product",{imagesrc:[1],imagealt:[1],productname:[1]}]]]],p));
